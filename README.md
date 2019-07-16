@@ -22,7 +22,7 @@ For the smart contract defined above, add the following functions:
 Create a function that will allow the candidate to spend funds on a campaign. Take in parameters - ID and funds and reduce the funds based on campaign type( you can define your own).
 Create a function that will check if the candidate is active or not, based on funds. Change the status of candidate here, based on funds(funds > 0 is active)
 
-Day 4:  Create a turn based game as taught in our Smart Contract series part - II. Create two players who are playing a game against each other. Create functions that can perform the following functions:
+Day 4: Create two players who are playing a game against each other. Create functions that can perform the following functions:
 Create an enum which described the state of the game(PLAYING, TIED, WON)
 Register a new game only if the game doesn’t exist before
 Game parameters: uid, player1, player2, score1, score2, GameState(ENUM)
