@@ -30,3 +30,7 @@ Update the scores of new players, according to the scores taken in as parameters
 Game tied - updates the gamestate to be tied
 Game won - updates the gamestate to be won
 getInfo - get the info of a game
+
+
+Day 5 : Create a smart contract that registers a Commodity and Sell the commodity when a Sell order is placed for that particular commodity!
+Pro-Tip: Use modifiers and different functions to make sure that the quantity that needs to be sold is available.
