@@ -1,4 +1,4 @@
-# 21DaysOfSolidity
+# Basic Solidity Contracts
  Small contracts written for learning purpose
 
 
