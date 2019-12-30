@@ -32,3 +32,5 @@ getInfo - get the info of a game
 
 6: Create a smart contract that registers a Commodity and Sell the commodity when a Sell order is placed for that particular commodity!
 Pro-Tip: Use modifiers and different functions to make sure that the quantity that needs to be sold is available.
+
+7. Multisignature wallets
